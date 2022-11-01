@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ListUp/static/css/main.073c9b0a.css",
+    "main.js": "/ListUp/static/js/main.138ff277.js",
+    "static/js/787.0c3f432a.chunk.js": "/ListUp/static/js/787.0c3f432a.chunk.js",
+    "static/media/44.jpg": "/ListUp/static/media/44.9475e5fb60ec16e0dbbe.jpg",
+    "index.html": "/ListUp/index.html",
+    "main.073c9b0a.css.map": "/ListUp/static/css/main.073c9b0a.css.map",
+    "main.138ff277.js.map": "/ListUp/static/js/main.138ff277.js.map",
+    "787.0c3f432a.chunk.js.map": "/ListUp/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.138ff277.js"
+  ]
+}
